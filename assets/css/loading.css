@@ -1,0 +1,84 @@
+.texto{		
+	font-family: "mono";
+	position: absolute;
+	top: 75%;
+	left: 25%;
+	width: 40%;
+	height: 25%;
+	text-align: center;
+	-webkit-transform: translateY( -50% );
+	-moz-transform: translateY( -50% );
+	transform: translateY( -50% );
+	animation: texto 2s infinite;
+	opacity:0;
+	-moz-opacity: 0;
+	filter: alpha(opacity=0);
+	font-size: 3em;
+}
+
+.rd{
+	fill: none;
+	position: relative;
+	top: 25%;
+	left: 25%;
+	width: 50%;
+	height: 50%;
+	stroke-dashoffset: 800;
+	stroke-dasharray: 800;
+	stroke-width: 1.2;
+	stroke-opacity: 0.8;
+	stroke: purple;
+	animation: dash 4s infinite;
+
+	/*animation: spiral 4s cubic-bezier(0.6, 0.3, 0.2, 0.1) infinite;*/
+}
+
+#loading {
+	display: none;
+	width: 100%;
+	height: auto;
+	bottom: 0px;
+	top: 0px;
+	left: 0;
+	position: absolute;
+}
+
+.eyes {
+	fill: purple;
+	stroke: purple;
+	animation: eye 2s infinite;
+	stroke-dashoffset: 632;
+	stroke-width: 0.4;
+	fill-opacity: 0.5;
+}
+
+@keyframes texto{
+	50%{
+		opacity:1;
+		-moz-opacity: 1;
+		filter: alpha(opacity=1);
+	}
+
+	100% {
+		opacity:0;
+		-moz-opacity: 0;
+		filter: alpha(opacity=0);
+	}
+}
+
+@keyframes dash{
+	to {
+		stroke-dashoffset: 632;
+	}
+}
+
+@keyframes eye{
+	50%{
+		stroke: black;
+		fill: black;
+	}
+	100% {
+		stroke: purple;
+		fill: purple;
+	}
+}

@@ -1,0 +1,93 @@
+.navbar-fixed-top{
+	z-index: 100;
+}
+header{
+	padding-bottom: 80px;
+}
+
+a{
+  font-family: monospace;
+}
+
+.text-success{
+  color: green;
+}
+
+.text-warning{
+  color: orange;
+}
+
+.text-danger{
+  color: tomato;
+}
+.pure-table{
+  width: 100%;
+  padding: .5em;
+}
+.pure-table td, th{
+  vertical-align: middle;
+  padding: .3em .3em !important;
+}
+
+.pure-button{
+  padding: .5em .7em;
+}
+
+input[type="text"],input[type="number"], select, button{
+  margin-bottom: .3em;
+}
+
+button{
+  padding: .5em .15em !important;
+}
+
+input[type="text"],input[type="number"], select{
+  width: 100%;
+  padding: .5em .0em !important;
+  border-radius: 0px !important;
+}
+
+.button-success,
+.button-error,
+.button-warning,
+.button-secondary {
+  color: white;
+  border-radius: 4px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.button-success {
+  background: rgb(28, 184, 65); /* this is a green */
+}
+
+.text-success {
+  color: rgb(28, 184, 65);
+}
+
+.button-error {
+  background: rgb(202, 60, 60); /* this is a maroon */
+}
+
+.text-error {
+  color: rgb(202, 60, 60);
+}
+
+.button-warning {
+  background: rgb(223, 117, 20); /* this is an orange */
+}
+
+.text-warning {
+  color: rgb(223, 117, 20);
+}
+
+.button-secondary {
+  background: rgb(66, 184, 221); /* this is a light blue */
+}
+
+.text-secondary {
+  color: rgb(66, 184, 221);
+}
+
+.content{
+  padding: 1.5em !important;
+}

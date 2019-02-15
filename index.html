@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114973925-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-114973925-1');
+	</script>
+	<meta HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+	<meta charset="UTF-8">
+	<title>PampaKros</title>
+	<link rel="icon" href="assets/img/ico.ico" type="image/x-icon">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="assets/css/reset.min.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/pure-min.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/side-menu.min.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/base.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/icomoon.css">
+
+	<link rel="stylesheet" type="text/css" href="assets/css/loading.css">
+
+	<script src="assets/js/jquery.min.js"></script>
+</head>
+<body>
+	<div id="main">
+		<nav class="pure-menu pure-menu-horizontal">
+			<ul class="pure-menu-list">
+				<li class="pure-menu-item"><a href="" class="pure-menu-link">Home</a></li>
+				<li class="pure-menu-item"><a href="/valores" class="pure-menu-link">Valores</a></li>
+				<li class="pure-menu-item"><a href="/att" class="pure-menu-link">Atualização de Valores</a></li>
+			</ul>
+		</nav>
+
+		<div class="content">
+			<h1>Updates</h1>
+			<p>Aqui estão listados todos os membros da comunidade brasileira de Krosmaster que redigiram ou aceitaram as modificações/incrementos de preços!</p>
+			<div id='loading'>
+				<svg class="rd" viewBox="0 0 52.916666 52.916668">
+					<filter id="glow">
+						<feGaussianBlur stdDeviation=".5" result="coloredBlur"/>
+						<feMerge>
+							<feMergeNode in="coloredBlur"/>
+							<feMergeNode in="SourceGraphic"/>
+						</feMerge>
+					</filter>
+					<g transform="translate(0,-244.08332)">
+						<path filter="url(#glow)" d="M 26.458833,262.69985 H 24.28547 l -3.15707,1.82274 0.934143,-3.48627 -7.509445,4.33558 1.078853,4.02633 2.293968,0.61467 v 3.93175 l 1.809612,1.80961 v 2.06464 l 2.761505,1.59436 1.461799,-0.84397 1.255069,1.64467 h 2.473351 l 1.228703,-1.59901 1.484609,0.85714 2.739479,-1.58164 v -2.24491 l 1.903813,-1.90381 v -3.76583 l 2.247056,-0.6021 1.072653,-4.0032 -7.550519,-4.35929 0.963734,3.5967 -3.184697,-1.83868 z"/>
+						<path filter="url(#glow)" class="eyes" d="m 25.293434,272.74165 -0.703617,1.2187 h -1.847722 l -1.356232,-0.78302 -1.200316,-2.07901 0.370788,-1.38381 0.429761,-0.42976 z"/>
+						<path filter="url(#glow)" class="eyes" d="m 27.623232,272.74165 0.703617,1.2187 h 1.847722 l 1.356232,-0.78302 1.200316,-2.07901 -0.370788,-1.38381 -0.429761,-0.42976 z"/>
+					</g>
+				</svg>
+				<div class="texto">Carregando</div>
+			</div>
+			<hr>
+			<table class="pure-table">
+				<thead>
+					<tr>
+						<th>Nº</th>
+						<th>Mês</th>
+						<th>Ano</th>
+						<th>Autor</th>
+						<th>Curador</th>
+					</tr>
+				</thead>
+				<tbody id="tbodyKrosmasters" style="align-items: center">
+				</tbody>
+			</table>
+		</div>
+	</div>
+	<script src="assets/js/drop-menu-pure.js"></script>
+	<script src="assets/js/index/listavalores.js"></script>
+</body>
+</html>

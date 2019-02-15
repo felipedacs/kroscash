@@ -1,0 +1,3 @@
+tornar html e css mais semanticos
+analytcs
+refatorar js

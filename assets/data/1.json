@@ -1,0 +1,602 @@
+[
+  {
+    "nome": "Missiz Frizz",
+    "base": "preta",
+    "season": "5",
+    "valor": "60"
+  },
+  {
+    "nome": "Mulobo",
+    "base": "preta",
+    "season": "5",
+    "valor": "60"
+  },
+  {
+    "nome": "Rei de Morango",
+    "base": "preta",
+    "season": "5",
+    "valor": "45"
+  },
+  {
+    "nome": "Bworker",
+    "base": "preta",
+    "season": "5",
+    "valor": "45"
+  },
+  {
+    "nome": "Rei de Menta",
+    "base": "preta",
+    "season": "5",
+    "valor": "30"
+  },
+  {
+    "nome": "Medor Thraki",
+    "base": "preta",
+    "season": "5",
+    "valor": "50"
+  },
+  {
+    "nome": "Grougalorasalar",
+    "base": "preta",
+    "season": "5",
+    "valor": "80"
+  },
+  {
+    "nome": "Dragao Porco",
+    "base": "preta",
+    "season": "5",
+    "valor": "60"
+  },
+  {
+    "nome": "Rei de Limao",
+    "base": "preta",
+    "season": "5",
+    "valor": "25"
+  },
+  {
+    "nome": "Milobo",
+    "base": "preta",
+    "season": "5",
+    "valor": "25"
+  },
+  {
+    "nome": "Groarg Gamel",
+    "base": "preta",
+    "season": "5",
+    "valor": "25"
+  },
+  {
+    "nome": "Bwork Guerreiro",
+    "base": "preta",
+    "season": "5",
+    "valor": "30"
+  },
+  {
+    "nome": "Rei de Fambroesa",
+    "base": "preta",
+    "season": "5",
+    "valor": "60"
+  },
+  {
+    "nome": "Milimilobo",
+    "base": "preta",
+    "season": "5",
+    "valor": "25"
+  },
+  {
+    "nome": "Ko Fang O Branco",
+    "base": "preta",
+    "season": "5",
+    "valor": "25"
+  },
+  {
+    "nome": "Bwork Arqueiro",
+    "base": "preta",
+    "season": "5",
+    "valor": "30"
+  },
+  {
+    "nome": "Emperador Jeleia",
+    "base": "preta",
+    "season": "5",
+    "valor": "130"
+  },
+  {
+    "nome": "Missiz Burnzz",
+    "base": "preta",
+    "season": "5",
+    "valor": "130"
+  },
+  {
+    "nome": "Freira",
+    "base": "preta",
+    "season": "4",
+    "valor": "60"
+  },
+  {
+    "nome": "Sphincter Cell",
+    "base": "preta",
+    "season": "4",
+    "valor": "70"
+  },
+  {
+    "nome": "Julith",
+    "base": "preta",
+    "season": "4",
+    "valor": "40"
+  },
+  {
+    "nome": "Bakara",
+    "base": "preta",
+    "season": "4",
+    "valor": "40"
+  },
+  {
+    "nome": "Jahash",
+    "base": "preta",
+    "season": "4",
+    "valor": "40"
+  },
+  {
+    "nome": "Miauvo Protetor",
+    "base": "preta",
+    "season": "4",
+    "valor": "40"
+  },
+  {
+    "nome": "Frei Tarra",
+    "base": "preta",
+    "season": "4",
+    "valor": "30"
+  },
+  {
+    "nome": "Chafer de Elite",
+    "base": "preta",
+    "season": "4",
+    "valor": "45"
+  },
+  {
+    "nome": "Rei Nojoso",
+    "base": "preta",
+    "season": "4",
+    "valor": "45"
+  },
+  {
+    "nome": "Ush",
+    "base": "preta",
+    "season": "4",
+    "valor": "90"
+  },
+  {
+    "nome": "Remington Smisse Mercenario",
+    "base": "preta",
+    "season": "4",
+    "valor": "90"
+  },
+  {
+    "nome": "Yugo Exaltado",
+    "base": "preta",
+    "season": "4",
+    "valor": "90"
+  },
+  {
+    "nome": "Fraderrapada",
+    "base": "preta",
+    "season": "4",
+    "valor": "25"
+  },
+  {
+    "nome": "Mestre Vampiro",
+    "base": "preta",
+    "season": "4",
+    "valor": "50"
+  },
+  {
+    "nome": "Mestre Corvoc",
+    "base": "preta",
+    "season": "4",
+    "valor": "55"
+  },
+  {
+    "nome": "Chafer Invisivel",
+    "base": "preta",
+    "season": "4",
+    "valor": "45"
+  },
+  {
+    "nome": "Percimol Controlado",
+    "base": "preta",
+    "season": "4",
+    "valor": "90"
+  },
+  {
+    "nome": "Joris Espadachim",
+    "base": "preta",
+    "season": "4",
+    "valor": "40"
+  },
+  {
+    "nome": "Marline",
+    "base": "preta",
+    "season": "4",
+    "valor": "30"
+  },
+  {
+    "nome": "Lilota",
+    "base": "preta",
+    "season": "4",
+    "valor": "40"
+  },
+  {
+    "nome": "Khan Karkass",
+    "base": "preta",
+    "season": "4",
+    "valor": "60"
+  },
+  {
+    "nome": "Atcham",
+    "base": "preta",
+    "season": "4",
+    "valor": "80"
+  },
+  {
+    "nome": "Abade Mente",
+    "base": "preta",
+    "season": "4",
+    "valor": "25"
+  },
+  {
+    "nome": "Chafer Arqueiro",
+    "base": "preta",
+    "season": "4",
+    "valor": "25"
+  },
+  {
+    "nome": "Bere",
+    "base": "preta",
+    "season": "4",
+    "valor": "30"
+  },
+  {
+    "nome": "Chafer Lanceiro",
+    "base": "preta",
+    "season": "4",
+    "valor": "25"
+  },
+  {
+    "nome": "Chafer da Infantaria",
+    "base": "preta",
+    "season": "4",
+    "valor": "25"
+  },
+  {
+    "nome": "Vampiro Franzino",
+    "base": "preta",
+    "season": "4",
+    "valor": "45"
+  },
+  {
+    "nome": "Maskemane Psycopata",
+    "base": "preta",
+    "season": "4",
+    "valor": "90"
+  },
+  {
+    "nome": "Maskemane Classico",
+    "base": "preta",
+    "season": "4",
+    "valor": "150"
+  },
+  {
+    "nome": "Maskemane Covarde",
+    "base": "preta",
+    "season": "4",
+    "valor": "150"
+  },
+  {
+    "nome": "Katar",
+    "base": "preta",
+    "season": "3",
+    "valor": "40"
+  },
+  {
+    "nome": "Otomai",
+    "base": "preta",
+    "season": "3",
+    "valor": "50"
+  },
+  {
+    "nome": "Otomai",
+    "base": "dourada",
+    "season": "3",
+    "valor": "80"
+  },
+  {
+    "nome": "Vampyro",
+    "base": "preta",
+    "season": "3",
+    "valor": "40"
+  },
+  {
+    "nome": "Yugo Enfurecido",
+    "base": "preta",
+    "season": "3",
+    "valor": "90"
+  },
+  {
+    "nome": "Crocabulia",
+    "base": "preta",
+    "season": "3",
+    "valor": "40"
+  },
+  {
+    "nome": "Crocabulia",
+    "base": "dourada",
+    "season": "3",
+    "valor": "60"
+  },
+  {
+    "nome": "Moon",
+    "base": "preta",
+    "season": "3",
+    "valor": "50"
+  },
+  {
+    "nome": "Moon",
+    "base": "dourada",
+    "season": "3",
+    "valor": "80"
+  },
+  {
+    "nome": "O Tchuke",
+    "base": "preta",
+    "season": "3",
+    "valor": "90"
+  },
+  {
+    "nome": "Corvo Negro",
+    "base": "preta",
+    "season": "3",
+    "valor": "50"
+  },
+  {
+    "nome": "Dragosa",
+    "base": "preta",
+    "season": "3",
+    "valor": "20"
+  },
+  {
+    "nome": "Dragosa",
+    "base": "dourada",
+    "season": "3",
+    "valor": "35"
+  },
+  {
+    "nome": "Ben o Ripata",
+    "base": "preta",
+    "season": "3",
+    "valor": "45"
+  },
+  {
+    "nome": "Ben o Ripata",
+    "base": "dourada",
+    "season": "3",
+    "valor": "65"
+  },
+  {
+    "nome": "Minotoror",
+    "base": "preta",
+    "season": "3",
+    "valor": "40"
+  },
+  {
+    "nome": "Minotoror",
+    "base": "dourada",
+    "season": "3",
+    "valor": "60"
+  },
+  {
+    "nome": "Kriss o Krasso",
+    "base": "preta",
+    "season": "3",
+    "valor": "40"
+  },
+  {
+    "nome": "Kanibola Phora",
+    "base": "preta",
+    "season": "3",
+    "valor": "40"
+  },
+  {
+    "nome": "Kanibola Phora",
+    "base": "dourada",
+    "season": "3",
+    "valor": "60"
+  },
+  {
+    "nome": "Grampy Shopkeeper",
+    "base": "preta",
+    "season": "3",
+    "valor": "80"
+  },
+  {
+    "nome": "Joris Mestre",
+    "base": "preta",
+    "season": "3",
+    "valor": "100"
+  },
+  {
+    "nome": "Dralegre a contente",
+    "base": "preta",
+    "season": "3",
+    "valor": "20"
+  },
+  {
+    "nome": "Dralegre a contente",
+    "base": "dourada",
+    "season": "3",
+    "valor": "35"
+  },
+  {
+    "nome": "Deminobola",
+    "base": "preta",
+    "season": "3",
+    "valor": "20"
+  },
+  {
+    "nome": "Deminobola",
+    "base": "dourada",
+    "season": "3",
+    "valor": "35"
+  },
+  {
+    "nome": "Arty",
+    "base": "preta",
+    "season": "3",
+    "valor": "80"
+  },
+  {
+    "nome": "Dark Vlad Enkarnado",
+    "base": "preta",
+    "season": "3",
+    "valor": "80"
+  },
+  {
+    "nome": "Tofu Real",
+    "base": "preta",
+    "season": "3",
+    "valor": "100"
+  },
+  {
+    "nome": "Papatudo Real",
+    "base": "preta",
+    "season": "3",
+    "valor": "100"
+  },
+  {
+    "nome": "Cardboard Tube Samurai",
+    "base": "preta",
+    "season": "3",
+    "valor": "110"
+  },
+  {
+    "nome": "Nemesis Samurai",
+    "base": "preta",
+    "season": "3",
+    "valor": "110"
+  },
+  {
+    "nome": "Omanetta",
+    "base": "preta",
+    "season": "3",
+    "valor": "25"
+  },
+  {
+    "nome": "Omanetta",
+    "base": "dourada",
+    "season": "3",
+    "valor": "40"
+  },
+  {
+    "nome": "Dragoeth o Pensador",
+    "base": "preta",
+    "season": "3",
+    "valor": "20"
+  },
+  {
+    "nome": "Dragoeth o Pensador",
+    "base": "dourada",
+    "season": "3",
+    "valor": "35"
+  },
+  {
+    "nome": "Dark Vlad",
+    "base": "preta",
+    "season": "3",
+    "valor": "40"
+  },
+  {
+    "nome": "Kanibola Thierry",
+    "base": "preta",
+    "season": "3",
+    "valor": "40"
+  },
+  {
+    "nome": "Kanibola Thierry",
+    "base": "dourada",
+    "season": "3",
+    "valor": "60"
+  },
+  {
+    "nome": "Kanibola Jav",
+    "base": "preta",
+    "season": "3",
+    "valor": "25"
+  },
+  {
+    "nome": "Kanibola Jav",
+    "base": "dourada",
+    "season": "3",
+    "valor": "40"
+  },
+  {
+    "nome": "Darkli Moon",
+    "base": "preta",
+    "season": "3",
+    "valor": "80"
+  },
+  {
+    "nome": "Djaul",
+    "base": "preta",
+    "season": "3",
+    "valor": "40"
+  },
+  {
+    "nome": "Boomba",
+    "base": "preta",
+    "season": "3",
+    "valor": "40"
+  },
+  {
+    "nome": "Boomba",
+    "base": "dourada",
+    "season": "3",
+    "valor": "60"
+  },
+  {
+    "nome": "Ogrest Crianca",
+    "base": "preta",
+    "season": "3",
+    "valor": "65"
+  },
+  {
+    "nome": "Kanibola Sarbak",
+    "base": "preta",
+    "season": "3",
+    "valor": "20"
+  },
+  {
+    "nome": "Kanibola Sarbak",
+    "base": "dourada",
+    "season": "3",
+    "valor": "35"
+  },
+  {
+    "nome": "Kanibola Arqueiro",
+    "base": "preta",
+    "season": "3",
+    "valor": "20"
+  },
+  {
+    "nome": "Kanibola Arqueiro",
+    "base": "dourada",
+    "season": "3",
+    "valor": "35"
+  },
+  {
+    "nome": "Grugaloragran Idoso",
+    "base": "preta",
+    "season": "3",
+    "valor": "80"
+  }
+]
